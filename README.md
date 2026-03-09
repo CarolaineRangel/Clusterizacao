@@ -67,7 +67,8 @@ Eixo Y: Tempo de vida do cliente (em meses).
 
 Cores: Representam os clusters identificados.
 
-image-20250411-182739.png
+<img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/eca327a2-9e84-4c57-a39e-1382bb54ec46" />
+
 🟪 Cluster 0 – Pequenas empresas heterogêneas
 Faturamento até 30k (incluindo "sem vendas").
 
@@ -105,7 +106,8 @@ Indica clientes estratégicos com alto potencial, mas ainda em fase de adaptaç�
 🕸️ Radar Plot – Perfil Funcional dos Clusters
 O gráfico abaixo é um Radar Plot (ou gráfico de aranha) que apresenta um retrato mais detalhado dos 4 clusters de clientes ativos identificados via K-Prototypes. Cada linha colorida representa a média normalizada das variáveis para os clientes de cada cluster.
 
-image-20250411-183409.png
+<img width="2413" height="2102" alt="image" src="https://github.com/user-attachments/assets/caf15d36-0cfa-4d3a-bf9b-1cb6367393ff" />
+
 🟪 Cluster 0:
 Alta demanda por suporte (tickets).
 
@@ -113,7 +115,8 @@ Baixo uso de funcionalidades como pix, KDS, integração com pagamentos.
 
 Perfil mais básico e reativo com alta demanda de suporte.
 
-image-20250411-183555.png
+<img width="2400" height="2309" alt="image" src="https://github.com/user-attachments/assets/c8d051e0-99ba-44d9-be16-fcc79f691375" />
+
  
 
 🔵 Cluster 1:
@@ -123,7 +126,8 @@ Alta presença de funcionalidades mais avançadas, mas com menor engajamento em 
 
 Pode representar clientes tecnologicamente sofisticados, porém ainda com 
 
-image-20250411-183624.png
+<img width="2400" height="2309" alt="image" src="https://github.com/user-attachments/assets/06fc9202-0f05-4732-ad3c-454903ecb6e5" />
+
  
 
 🟢 Cluster 2:
@@ -133,8 +137,8 @@ Clientes mais engajados, com uso amplo de recursos da plataforma (fiscal, emiss�
 
 Perfil de cliente maduro, engajado e com forte ativação funcional — provavelmente empresas grandes ou bem integradas à plataform
 
-image-20250411-183642.png
- 
+<img width="2400" height="2309" alt="image" src="https://github.com/user-attachments/assets/786a2d68-8910-4787-9276-f306b0d3216c" />
+
 
 🟡 Cluster 3:
 Forte ativação nos primeiros dias (onboarding).
@@ -143,7 +147,8 @@ Uso de vendas online e meios de pagamento modernos.
 
 Potencial para engajamento, mas ainda em fase inicial.
 
-image-20250411-183649.png
+<img width="2400" height="2309" alt="image" src="https://github.com/user-attachments/assets/7b3a8b8a-c0d0-4f65-9283-876ec3dd9b26" />
+
 ✅ Conclusões
 A clusterização revelou perfis distintos de clientes ativos, permitindo uma segmentação estratégica.
 
